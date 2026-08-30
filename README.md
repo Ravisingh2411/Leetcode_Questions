@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -59,4 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
