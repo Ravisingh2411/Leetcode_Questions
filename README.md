@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
