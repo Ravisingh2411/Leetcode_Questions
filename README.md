@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0079-word-search) |
+| [0168-excel-sheet-column-title](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 ## Bit Manipulation
 |  |
