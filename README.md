@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -52,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
