@@ -1,44 +1,33 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        int[] ans = {-1,-1};
-        int idx = 1;
-        int fidx = -1;
-        int lidx = -1;
-        int minDist = Integer.MAX_VALUE;
-        ListNode a = head;
-        ListNode b = a.next;
-        ListNode c = b.next;
-        if(c == null) return ans; // 2 size ki LL
-        while(c != null){
-            //check for critical point
-            if((b.val > a.val && b.val > c.val) || (b.val < a.val && b.val < c.val)){
-                if(fidx == -1) fidx = idx;
-                if(lidx != -1){
-                    int dist = idx-lidx;
-                    minDist = Math.min(dist,minDist);
+        int[] ans = {-1, -1};
+        ListNode prev = head;
+        ListNode curr = head.next;
+        int index = 1;
+        int first = -1;
+        int last = -1;
+        int min = Integer.MAX_VALUE;
+
+        while(curr.next != null){
+            if((curr.val > prev.val && curr.val > curr.next.val) ||
+                (curr.val < prev.val && curr.val < curr.next.val)){
+                if(first == -1){
+                    first = index;
                 }
-                lidx = idx;
+                if(last != -1){
+                    min = Math.min(min, index - last);
+                }
+                last = index;
             }
-            idx++;
-            a = a.next;
-            b = b.next;
-            c = c.next;
+            prev = curr;
+            curr = curr.next;
+            index++;
         }
-        int maxDist = lidx-fidx;
-        if(maxDist == 0) maxDist = -1;
-        if(minDist == Integer.MAX_VALUE) minDist = -1;
-        ans[0] = minDist;
-        ans[1] = maxDist;
+
+        if(first == last) return ans;
+
+        ans[0] = min;
+        ans[1] = last - first;
         return ans;
     }
 }
