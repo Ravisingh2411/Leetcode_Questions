@@ -7,10 +7,11 @@ class Solution {
         Arrays.sort(arr2);
 
         int i = 0;
-        while (i < s.length()) {
-            if (arr1[i] == arr2[i]) {
+        while(i < s.length()){
+            if(arr1[i] == arr2[i]){
                 i++;
-            } else {
+            } 
+            else{
                 return arr2[i];
             }
         }
