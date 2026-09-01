@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0389-find-the-difference) |
+| [2390-removing-stars-from-a-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0067-add-binary) |
+| [2390-removing-stars-from-a-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
