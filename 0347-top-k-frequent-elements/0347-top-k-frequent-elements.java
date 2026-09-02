@@ -24,8 +24,10 @@ class Solution {
                 continue;
             }
             if(freq < pq.peek().freq) continue;
-            pq.remove();
-            pq.add(new Pair(ele, freq));
+            else{
+                pq.remove();
+                pq.add(new Pair(ele, freq));
+            }
         }
         int[] ans = new int[k];
         int index = 0;
