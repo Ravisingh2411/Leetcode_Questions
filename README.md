@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
