@@ -24,7 +24,7 @@ class Solution {
         }
 
         StringBuilder sb = new StringBuilder();
-        while(pq.size() > 0){
+        while(!pq.isEmpty()){
             Pair p1 = pq.poll();
             if(sb.length() == 0 || sb.charAt(sb.length() - 1) != p1.ch){
                 sb.append(p1.ch);
