@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1046-last-stone-weight](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1046-last-stone-weight) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
