@@ -8,7 +8,7 @@ class Solution {
             int w1 = pq.poll();
             int w2 = pq.poll();
             if(w1 != w2){
-                pq.add(Math.abs(w1-w2));
+                pq.add((w1-w2));
             }
         }
         return pq.isEmpty() ? 0 : pq.peek();
