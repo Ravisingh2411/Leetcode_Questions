@@ -9,7 +9,6 @@ class Solution {
         }
 
         public int compareTo(Pair p) {
-            if(this.freq == p.freq) return p.ch - this.ch;
             return p.freq - this.freq;
         }
     }
@@ -19,7 +18,7 @@ class Solution {
             map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>();
+        PriorityQueue<Pair> pq = new PriorityQueue<>();  //max heap on both
         for (char ch : map.keySet()) {
             pq.add(new Pair(map.get(ch), ch));
         }
