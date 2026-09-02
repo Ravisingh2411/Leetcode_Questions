@@ -26,25 +26,12 @@ class Solution {
 
         for (String s : map.keySet()) {
             int freq = map.get(s);
-            if (pq.size() < k) {
+            if(pq.size() < k) pq.add(new Pair(s, freq));
+            else{
                 pq.add(new Pair(s, freq));
-                continue;
-            }
-
-            Pair top = pq.peek();
-
-            if (freq > top.freq) {
                 pq.remove();
-                pq.add(new Pair(s, freq));
-            }
-
-            // Same frequency, current word is lexicographically smaller
-            else if (freq == top.freq && s.compareTo(top.word) < 0) {
-                pq.remove();
-                pq.add(new Pair(s, freq));
             }
         }
-
         while (pq.size() > 0) {
             Pair top = pq.remove();
             ans.add(0, top.word);
