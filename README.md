@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3903-smallest-stable-index-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0658-find-k-closest-elements) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
