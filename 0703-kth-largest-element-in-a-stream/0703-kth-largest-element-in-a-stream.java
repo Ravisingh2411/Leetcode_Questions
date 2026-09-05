@@ -9,7 +9,6 @@ class KthLargest {
             if(pq.size() > k) pq.remove();
         }
     }
-    
     public int add(int val) {
         pq.add(val);
         if(pq.size() > k) pq.remove();
