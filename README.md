@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0621-task-scheduler) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0767-reorganize-string) |
