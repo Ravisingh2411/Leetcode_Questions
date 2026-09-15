@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1405-longest-happy-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0767-reorganize-string) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1405-longest-happy-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1405-longest-happy-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1405-longest-happy-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1405-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
