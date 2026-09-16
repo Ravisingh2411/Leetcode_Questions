@@ -28,12 +28,36 @@ class Solution {
         // return ans;
 
 
-        HashSet<Integer> set = new HashSet<>();
-        for(int x : nums){
-            if(x > 0){
-                set.add(x);
+        int ans = 0;
+        while(true){
+            int ele = Integer.MAX_VALUE;
+            for(int x : nums){
+                if(x > 0){
+                    ele = Math.min(ele, x);
+                }
+            }
+            if(ele == Integer.MAX_VALUE){
+                break;
+            }
+            ans++;
+            for(int i = 0; i < nums.length; i++){
+                if(nums[i] > 0){
+                    nums[i] -= ele;
+                }
             }
         }
-        return set.size();
+        return ans;
+
+
+        // HashSet<Integer> set = new HashSet<>();
+        // for(int x : nums){
+        //     if(x > 0){
+        //         set.add(x);
+        //     }
+        // }
+        // return set.size();
+
+
+
     }
 }
