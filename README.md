@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2974-minimum-number-game) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0767-reorganize-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2974-minimum-number-game) |
 ## Counting
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1405-longest-happy-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1405-longest-happy-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
 |  |
 | ------- |
@@ -224,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2974-minimum-number-game) |
