@@ -9,6 +9,7 @@ class Solution {
             this.row = row;
             this.val = val;
         }
+        
         public int compareTo(Triplet other){
             if(this.sum != other.sum){
                 return Integer.compare(this.sum, other.sum);
