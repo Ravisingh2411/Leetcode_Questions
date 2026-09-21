@@ -1,14 +1,14 @@
 class Solution {
-    class Pair implements Comparable<Pair> {
+    class Pair implements Comparable<Pair>{
         int numerator;
         int denominator;
 
-        Pair(int numerator, int denominator) {
+        Pair(int numerator, int denominator){
             this.numerator = numerator;
             this.denominator = denominator;
         }
 
-        public int compareTo(Pair other) {
+        public int compareTo(Pair other){
             return Integer.compare(
                 other.numerator * this.denominator,
                 this.numerator * other.denominator
@@ -20,16 +20,17 @@ class Solution {
         PriorityQueue<Pair> pq = new PriorityQueue<>();
         int n = arr.length;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
+        for(int i = 0; i < n; i++){
+            for(int j = i + 1; j < n; j++){
                 Pair current = new Pair(arr[i], arr[j]);
 
-                if (pq.size() < k) {
+                if(pq.size() < k){
                     pq.add(current);
-                } else {
+                } 
+                else{
                     Pair largest = pq.peek();
-                    if (current.numerator * largest.denominator
-                        < largest.numerator * current.denominator) {
+                    if(current.numerator * largest.denominator
+                        < largest.numerator * current.denominator){
                         pq.poll();
                         pq.add(current);
                     }
@@ -38,9 +39,6 @@ class Solution {
         }
 
         Pair ans = pq.peek();
-        return new int[] {
-            ans.numerator,
-            ans.denominator
-        };
+        return new int[]{ans.numerator,ans.denominator};
     }
 }
