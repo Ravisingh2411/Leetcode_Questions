@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0506-relative-ranks) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0079-word-search) |
+| [0419-battleships-in-a-board](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0419-battleships-in-a-board) |
 ## Greedy
 |  |
 | ------- |
