@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0994-rotting-oranges) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
+| [0994-rotting-oranges](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Math
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1393-capital-gainloss](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1393-capital-gainloss) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
