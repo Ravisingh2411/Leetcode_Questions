@@ -5,9 +5,10 @@ class Solution {
         return true;
     }
 
+    int[] x = {1,-1,0,0};
+    int[] y = {0,0,1,-1};
+
     void dfs(char[][] board, int m, int n, int i, int j){
-        int[] x = {1,-1,0,0};
-        int[] y = {0,0,1,-1};
 
         board[i][j] = '#';
         for(int k = 0; k < 4; k++){
