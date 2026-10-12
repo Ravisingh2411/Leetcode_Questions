@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0130-surrounded-regions) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0130-surrounded-regions) |
 | [0419-battleships-in-a-board](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0419-battleships-in-a-board) |
 ## Greedy
 |  |
@@ -387,5 +390,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0994-rotting-oranges) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
