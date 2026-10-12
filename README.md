@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0610-triangle-judgement) |
+| [1045-customers-who-bought-all-products](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1070-product-sales-analysis-iii) |
 | [1393-capital-gainloss](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1393-capital-gainloss) |
