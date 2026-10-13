@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1070-product-sales-analysis-iii) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1393-capital-gainloss) |
 | [1890-the-latest-login-in-2020](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1890-the-latest-login-in-2020) |
 ## Breadth-First Search
