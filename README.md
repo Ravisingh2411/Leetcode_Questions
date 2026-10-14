@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
