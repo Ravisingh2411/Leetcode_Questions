@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
+| [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0973-k-closest-points-to-origin) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
+| [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1631-path-with-minimum-effort) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0130-surrounded-regions) |
 | [0419-battleships-in-a-board](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0419-battleships-in-a-board) |
+| [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0658-find-k-closest-elements) |
+| [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1631-path-with-minimum-effort) |
@@ -265,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1046-last-stone-weight) |
@@ -404,15 +410,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0130-surrounded-regions) |
+| [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0130-surrounded-regions) |
+| [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
