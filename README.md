@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1070-product-sales-analysis-iii) |
