@@ -1,0 +1,29 @@
+class Solution {
+    public boolean search(int[] nums, int target) {
+        int n = nums.length;
+        int low = 0;
+        int high = n-1;
+        while(low <= high){
+            int mid = low+(high-low)/2;
+            if(nums[mid] == target) return true;
+
+            // Handle duplicates
+            if (nums[low] == nums[mid] &&
+                nums[mid] == nums[high]) {
+                low++;
+                high--;
+            }
+
+            else if(nums[low] <= nums[mid]){ // low to mid is sorted
+                if(nums[low] <= target && target < nums[mid]) high = mid-1;
+                else low = mid+1;
+            }
+            
+            else{ // mid  to high is sorted
+                if(nums[mid] < target && target <= nums[high]) low = mid+1;
+                else high = mid-1;
+            }
+        }
+        return false;
+    }
+}
