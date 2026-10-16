@@ -103,10 +103,6 @@ class Solution {
                 continue;
             }
 
-            // if (r == n - 1 && c == n - 1) {
-            //     return time;
-            // }
-
             for (int i = 0; i < 4; i++) {
                 int nr = r + x[i];
                 int nc = c + y[i];
