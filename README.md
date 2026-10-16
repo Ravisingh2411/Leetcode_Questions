@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0290-word-pattern) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0290-word-pattern) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0130-surrounded-regions) |
 | [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0994-rotting-oranges) |
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
