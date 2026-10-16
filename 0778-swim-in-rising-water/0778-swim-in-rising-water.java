@@ -99,9 +99,9 @@ class Solution {
             int c = curr[1];
             int time = curr[2];
 
-            if (time > dist[r][c]) {
-                continue;
-            }
+            // if (time > dist[r][c]) {
+            //     continue;
+            // }
 
             for (int i = 0; i < 4; i++) {
                 int nr = r + x[i];
