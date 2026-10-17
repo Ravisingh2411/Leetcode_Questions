@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3903-smallest-stable-index-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2974-minimum-number-game) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
