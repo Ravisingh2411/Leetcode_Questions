@@ -4,12 +4,19 @@ class Solution {
         int r = nums.length-1;
 
         while(l < r){
-            int m = l + (r-l)/2;
+            // int m = l + (r-l)/2;
+            int m = l + (r-l+1)/2;
 
-            if(nums[m] > nums[m+1]){
-                r = m;
+            // if(nums[m] > nums[m+1]){  //peak ele is either mid one or to it's left part
+            //     r = m;
+            // }
+            // else l = m+1;
+
+
+            if(nums[m] > nums[m-1]){  //peak ele is either mid one or to it's right part
+                l = m;
             }
-            else l = m+1;
+            else r = m-1;
         }
         return r;
         // return l;
