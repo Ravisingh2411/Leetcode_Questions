@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
