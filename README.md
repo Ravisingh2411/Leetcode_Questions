@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
