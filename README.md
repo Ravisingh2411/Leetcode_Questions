@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0502-ipo) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0877-stone-game) |
 ## Minimax
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
