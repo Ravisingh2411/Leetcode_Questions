@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [2409-count-days-spent-together](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2409-count-days-spent-together) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3870-count-commas-in-range) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ravisingh2411/Leetcode_Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
